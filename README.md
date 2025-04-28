@@ -61,6 +61,13 @@ source ~/.zshrc
 ## reset through powerlevel10k app: 
 p10k configure
 
+## NOTICE: 
+You should choose Unicode for the advanced features:
+![SCR-20250427-petl](https://github.com/user-attachments/assets/61bb698c-b034-4b7a-a7d2-f6e6059a5663)
+
+# 4. Result
+![SCR-20250427-pftz](https://github.com/user-attachments/assets/372b5eaf-3885-4197-90dc-9442228e2a44)
+
 
 # Reference
 [How To Make Your Boring Mac Terminal So Much Better](https://www.youtube.com/watch?v=CF1tMjvHDRA&t=6s)
