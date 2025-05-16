@@ -2,6 +2,8 @@
 
 | Quick guidance to install Marcus shell style on terminal (MacOS/GitBash)
 
+Best documentation: https://www.josean.com/posts/terminal-setup
+
 # 1. Install git
 type `git` to install git
 
